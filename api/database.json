@@ -1,0 +1,19 @@
+{
+    "employees": [
+        {
+            "name": "Johnson"
+        },
+        {
+            "name": "Smith"
+        },
+        {
+            "name": "Thomas"
+        }
+    ],
+    "department": [
+
+    ],
+    "computer": [
+
+    ]
+}
